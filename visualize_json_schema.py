@@ -138,7 +138,7 @@ static_json="""{
                                 "display_name": "Industry sector"
                             },
                             "SOC_code": {
-                                "type": "string",
+                                "type": "string",   
                                 "description": "Standard Occupational Classification (SOC) code (e.g., 15-1132)",
                                 "display_name": "SOC Code"
                             }
